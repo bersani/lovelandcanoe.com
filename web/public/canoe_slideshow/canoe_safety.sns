@@ -1,0 +1,467 @@
+<xml version="1.0">
+<swf_n_slide_pro version_major="1" version_minor="2">
+<slide_show_data plugin_id="1" >
+<slide_show width="590" height="372" fps="12" use_compression="true" protect="true" disable_print="true" bg_color="6323020" use_bg_image="false" auto_time_slide_show="none" auto_time_slide_show_time="5000" show_bounds_left="0" show_bounds_right="590" show_bounds_top="0" show_bounds_bottom="372" sync_show_bounds="true">
+<bg_image src="" export_type="jpeg" quality="80" scale_to_fit="true" tile="false" adjust_bitmap_shift="false" />
+<swf_data movie_start_action="play_automatically" pause_time="1000" preload="true" loop="none" loop_count="1">
+<preload_data creator="sns" preload_import_src="" preload_amount="100" preload_text="Loading River Safey Slide show" preload_text_color="16777215" fnt_name="Arial" font_size="16" font_bold="false" font_italic="false" preload_type="simple" />
+<mouse_click_action action="none" target_type="blank" url="http://" target="_blank" target_expression="false" url_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<movie_end_action action="none" target_type="blank" url="http://" target="_blank" target_expression="false" url_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</movie_end_action>
+</swf_data>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+<objects>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="true" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\01_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\02_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\03_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\05_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\06a_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\07_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\08_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\09_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\10_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\13_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\14_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\15_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\16_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\17_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\18_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\19_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\20_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+<slide view_bounds_left="0" view_bounds_right="590" view_bounds_top="0" view_bounds_bottom="372" expanded="false" locked="false" visible="true" selected="false" >
+<image src="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\21_canoe_slide.jpg" width="590" height="372" x="0" y="0" angle="0" quality="80" image_type="jpeg" duration="5500" scale_to_fit="true" keep_aspect_ratio="true" auto_align="true" h_align="center" v_align="center" border="false" border_color="16777215" border_hoffset="0" border_voffset="0" crop_left="0" crop_right="590" crop_top="0" crop_bottom="372" crop="false" flip_horizontal="false" flip_vertical="false" expanded="false" locked="false" visible="true" selected="false">
+<media_prop>
+<mouse_click_action mouse_click_type="none" jump_slide_num="1" mouse_click_target_type="blank" mouse_click_url="http://" mouse_click_target="_blank" mouse_click_url_expression="false" mouse_click_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<display_action pause_after="false" display_action_type="none" display_action_target_type="blank" display_action_url="http://" display_action_target="_blank" display_action_url_expression="false" display_action_target_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</display_action>
+<transition_in>
+<transition name="Cross Fade" duration="1500" />
+</transition_in>
+<swf_fx name="None" duration="7000" remove_type="after_end" />
+<pan_zoom>
+</pan_zoom>
+</media_prop>
+<image_filters>
+</image_filters>
+</image>
+<sound_data include="false" play_until_next_sound="false">
+<sound src="" sample_rate="11025" bit_rate="96" stereo="false" lead_in="0" loop_type="none" loop_count="1" fade_in="false" fade_in_time="1000" fade_out="false" fade_out_time="1000" play_entire_sound="true" stream="false" />
+</sound_data>
+</slide>
+</objects>
+<swf_data movie_start_action="play_automatically" pause_time="1000" preload="true" loop="none" loop_count="1">
+<preload_data creator="sns" preload_import_src="" preload_amount="100" preload_text="Loading River Safey Slide show" preload_text_color="16777215" fnt_name="Arial" font_size="16" font_bold="false" font_italic="false" preload_type="simple" />
+<mouse_click_action action="none" target_type="blank" url="http://" target="_blank" target_expression="false" url_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</mouse_click_action>
+<movie_end_action action="none" target_type="blank" url="http://" target="_blank" target_expression="false" url_expression="false" >
+<popup_data width="100" height="100" x="0" y="0" resizable="false" toolbar="false" scrollbar="false" directory="false" status="false" location="false" menubar="false" />
+</movie_end_action>
+</swf_data>
+<frame type="none" size_left="10" size_right="10" size_top="10" size_bottom="10" color="5592405" pattern_src="" pattern_custom_src="" />
+<workspace current_slide="1" current_object="-1" current_show_object="-1" />
+</slide_show>
+<publish_data output="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow" use_default_base_filename="false" default_base_filename="canoe_safety" >
+<swf publish="true" filename="canoe_safety.swf" />
+<html publish="true" filename="canoe_safety.html" >
+<html_swf swf="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\canoe_safety.swf" orig_width="590" orig_height="372" width="590" height="3372" bgcolor="16777215" auto_play="true" loop="true" display_menu="true" device_font="false" popup_function="false" dimension_type="" quality="high" window_mode="window" html_align="default" scale="showall" flash_align="default" />
+</html>
+<mac_projector publish="false" filename="Untitled.hqx" >
+<swf_projector fullscreen="false" allowscale="true" showmenu="true" expire="false" expire_month="1" expire_date="1" expire_year="2004" expire_message="" />
+</mac_projector>
+<win_projector publish="false" filename="Untitled.exe" >
+<swf_projector fullscreen="false" allowscale="true" showmenu="true" expire="false" expire_month="1" expire_date="1" expire_year="2004" expire_message="" />
+</win_projector>
+<quicktime_mov publish="false" filename="Untitled.mov" >
+<quicktime_swf swf_width="590" swf_height="372" width="590" height="372" alpha="none" controller="standard" match_movie_dimensions="true" paused_at_start="false" loop="false" flatten_movie="true" export_uncompressed_video="false" />
+</quicktime_mov>
+<screensaver publish="false" filename="Untitled.scr" publish_installer="false" installer_filename="UntitledSS.exe" >
+<screensaver_swf swf="D:\LBH_sites\Copy of loveland_canoe2\canoe_slideshow\canoe_safety.swf" readme="UmVhZCBNZQ==" about="QWJvdXQuLi4=" />
+</screensaver>
+</publish_data>
+</slide_show_data>
+</swf_n_slide_pro>
+
+</xml>
