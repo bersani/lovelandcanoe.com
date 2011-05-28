@@ -6,8 +6,8 @@ The xferlist.rb script can be found at https://gist.github.com/997254
 After making changes:
 
 * run `rake`
-* git add the changed files including the sentinel* files
-** you probably have to `git add -f sentinel*`
+* git add the changed files including the sentinel* files  
+  you probably have to `git add -f sentinel*`
 * git push
 
-[lck][http://lovelandcanoe.com/]
+[lck]: http://lovelandcanoe.com/ "Loveland Canoe & Kayak"
