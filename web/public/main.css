@@ -163,3 +163,9 @@ p.look a { font-weight: bold; }
 div.alcohol   { font-size: 125%; padding-top: 1em; }
 div.alcohol p { padding-top: 1em; }
 div.alcohol > p:first-child { color: #DDC33C; }
+.linkheads   { color: white;
+               font-family: Verdana, Tahoma, 'Gil Sans', 'Lucida Sans', 'Lucida Sans Typewriter', sans-serif;
+               font-size: 14px; }
+.linkheaddesc { color: white;
+		font-family: Arial, Helvetica, sans-serif;
+                font-size: 12px; }

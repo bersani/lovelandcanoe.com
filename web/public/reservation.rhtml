@@ -27,7 +27,7 @@
         <li><a href="hours.html"><span>hours/pricing</span></a></li>
         <li><a href="about.html"><span>about us</span></a></li>
         <li><a href="contact.html"><span>contact us</span></a></li>
-        <li><a href="trips.html"><span>daily trips</span></a></li>
+        <li><a href="trips.html"><span>trip information</span></a></li>
         <li><a href="groups.html"><span>group outings</span></a></li>
 	<li><a href="reservation.rhtml"><span>reservations</span></a></li>
 
@@ -75,9 +75,9 @@
             <td><label for="trip">Trip:</label></td>
             <td>
               <select name="trip" id="trip">
-                <option value="threemile">3 miles (1-3 hrs)</option>
+                <option value="threemile">3 miles (1-2 hrs)</option>
                 <option value="fivemile" selected="selected">5 miles (2-4 hrs)</option>
-                <option value="eightmile">8 miles (4-5 hrs)</option>
+                <option value="eightmile">10 miles (4-6 hrs)</option>
               </select>
             </td>
           </tr>
@@ -95,20 +95,6 @@
               </select>
             </td>
           </tr>
-% if start_date.yday < 177
-          <tr>
-            <td colspan="2">
-              <strong>Due to PaddleFest2010, reservations for Saturday, June 26, should be made by phone.</strong>
-            </td>
-          </tr>
-% elsif Date.today > end_date
-          <tr>
-            <td colspan="2">
-              <strong>Loveland Canoe &amp; Kayak is closed for the season.  Please join us in 2011.</strong>
-            </td>
-          </tr>
-% end
-
           <tr class="required">
             <td><label for="timeField">Time:</label></td>
             <td>
@@ -175,6 +161,12 @@
             <td><label for="kayak">Kayak:</label></td>
             <td><input type="checkbox" name="kayak_yn" />
               <input name="kayak" id="kayak" size="2" maxlength="5" value="0"/></td>
+          </tr>
+
+          <tr>
+            <td><label for="raft">Raft:</label></td>
+            <td><input type="checkbox" name="raft_yn" />
+              <input name="raft" id="raft" size="2" maxlength="5" value="0"/></td>
           </tr>
 
           <tr>
