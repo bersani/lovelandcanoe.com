@@ -21,7 +21,7 @@ FTP_dir=web
               print "put $file";
               $dir =~ s,[^/]+,..,g;
               print "cd $dir\nlcd $dir";'
- echo bye ) | sftp $FTP_user@$FTP_host:web/
+ echo bye ) | sftp $FTP_user@$FTP_host
 
 mv sentinel.joy sentinel.joy.prev
 touch sentinel.joy
