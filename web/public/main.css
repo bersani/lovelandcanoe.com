@@ -139,6 +139,9 @@ h4 { color: white; margin-top: 20px; }
 dt { width: 5em; float: left; clear: left; }
 dd { color: black; margin-left: 5em; }
 
+.closed-for-season {
+    font-weight: bolder;
+}
 div#hours { width: 476px; }
 #hours dt { width: 10em; float: left; clear: left; }
 #hours dd { margin-left: 10em; }
