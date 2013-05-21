@@ -17,7 +17,8 @@ namespace :deploy do
   task :joyent do |t|
     if File.exist?(xferlist = File.expand_path('~/code/ruby/xferlist.rb'))
       #puts "ruby script"
-      system "#{xferlist} lovelandcanoe@richardson.joyent.us web cgi-bin"
+      # system "#{xferlist} lovelandcanoe@richardson.joyent.us web cgi-bin"
+      system "#{xferlist} lovelandcanoe@berkley.textdrive.us web cgi-bin"
     elsif RUBY_PLATFORM =~ /darwin/ && File.exist?('update.joy')
       puts "bash script"
       system './update.joy'

@@ -6,8 +6,9 @@
 #
 # Deals with spaces in file/directory names by using the '?' shell wildcard
 
-FTP_host=richardson.joyent.us
-# FTP_host=lovelandcanoe.com    # when DNS is working, this would do
+# FTP_host=richardson.joyent.us
+# FTP_host=berkley.textdrive.us
+FTP_host=lovelandcanoe.com    # when DNS is working, this would do
 FTP_user=lovelandcanoe
 FTP_pswd=                  # must be given on keyboard, unless authorized_keys
 FTP_dir=web
